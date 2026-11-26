@@ -35,3 +35,5 @@ Completed — versi awal proyek pembelajaran.
 Author
 
 Azhar
+
+Preview : https://mukhamadazhar2010-rpl.github.io/kunjungan-bei-museum-bi/
