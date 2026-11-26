@@ -1,0 +1,114 @@
+body {
+  font-family: Arial, sans-serif; 
+}
+
+h1 {
+  color: #333333;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center; 
+  font-size: 24px;
+}
+
+h2 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 16px;
+  line-height: 1.6; 
+  text-indent: 1.5em;
+  text-align: justify;
+}
+#BEI{
+  color: #E31E24;
+  background-color: #FDE8E8; 
+  padding: 5px 10px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+#MUBI {
+   color: #003399; 
+  background-color: #E6F0FF; 
+  padding: 5px 10px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+#ksmpl {
+  color: #333333; 
+  background-color: #F0F0F0;
+  padding: 5px 10px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+#Kunjungan_BEI {
+  display: block;
+  margin: 25px auto;
+  width: 100%;          
+  max-width: 600px;   
+  height: auto;         
+  border-radius: 8px; 
+}
+
+#UU_No_24 {
+  display: block;
+  margin: 25px auto;
+  width: 100%;          
+  max-width: 600px;     
+  height: auto;        
+  border-radius: 8px; 
+}
+
+#fing_BEI {
+  display: block;
+  margin: 25px auto;
+  width: 100%;          
+  max-width: 600px;     
+  height: auto;         
+  border-radius: 8px; 
+}
+
+#metafora {
+  display: block;
+  margin: 25px auto;
+  width: 100%;          
+  max-width: 600px;     
+  height: auto;         
+  border-radius: 8px; 
+}
+
+#Figure {
+  display: block;
+  margin: 25px auto;
+  width: 100%;          
+  max-width: 600px;     
+  height: auto;         
+  border-radius: 8px; 
+}
+
+#Fotografer_dadakan {
+  display: block;
+  margin: 25px auto;
+  width: 100%;          
+  max-width: 600px;     
+  height: auto;         
+  border-radius: 8px; 
+}
+
+#BI {
+  display: block;
+  margin: 25px auto;
+  width: 100%;          
+  max-width: 600px;     
+  height: auto;         
+  border-radius: 8px; 
+}
+
+#cpy {
+  text-align: center;
+}
